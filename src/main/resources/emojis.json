@@ -287,10 +287,12 @@
     ]
   },
   {
-    "emojiChar": "2️\u20e3",
-    "aliases": ["two"],
-    "emoji": "\u0032\uFE0F\u20E3",
-    "description": "keycap: 2",
+    "emojiChar": "2⃣",
+    "emoji": "2\u20E3",
+    "description": "digit two + combining enclosing keycap",
+    "aliases": [
+      "two"
+    ],
     "tags": []
   },
   {
@@ -1526,10 +1528,12 @@
     "tags": []
   },
   {
-    "emojiChar": "7️\u20e3",
-    "aliases": ["seven"],
-    "emoji": "\u0037\uFE0F\u20E3",
-    "description": "keycap: 7",
+    "emojiChar": "7⃣",
+    "emoji": "7\u20E3",
+    "description": "digit seven + combining enclosing keycap",
+    "aliases": [
+      "seven"
+    ],
     "tags": []
   },
   {
@@ -1677,14 +1681,6 @@
       "ceuta & melilla",
       "flag"
     ]
-  },
-  {
-    "emojiChar": "👳\u200d♂️",
-    "aliases": ["man_with_turban"],
-    "emoji": "\uD83D\uDC73\u200D\u2642\uFE0F",
-    "supports_fitzpatrick": true,
-    "description": "man wearing turban",
-    "tags": []
   },
   {
     "emojiChar": "👳\u200d♀️",
@@ -1891,13 +1887,6 @@
     "emoji": "\uD83D\uDC69\u200D\u2764\uFE0F\u200D\uD83D\uDC68",
     "supports_fitzpatrick": true,
     "description": "couple with heart: woman, man",
-    "tags": []
-  },
-  {
-    "emojiChar": "3️\u20e3",
-    "aliases": ["three"],
-    "emoji": "\u0033\uFE0F\u20E3",
-    "description": "keycap: 3",
     "tags": []
   },
   {
@@ -2280,11 +2269,15 @@
     "tags": []
   },
   {
-    "emojiChar": "#\u20e3",
-    "aliases": ["hash"],
-    "emoji": "\u0023\u20E3",
+    "emojiChar": "#⃣",
+    "emoji": "#\u20E3",
     "description": "number sign + combining enclosing keycap",
-    "tags": ["number"]
+    "aliases": [
+      "hash"
+    ],
+    "tags": [
+      "number"
+    ]
   },
   {
     "emojiChar": "👩\u200d🦽",
@@ -3377,10 +3370,12 @@
     "tags": []
   },
   {
-    "emojiChar": "0\u20e3",
-    "aliases": ["zero"],
-    "emoji": "\u0030\u20E3",
+    "emojiChar": "0⃣",
+    "emoji": "0\u20E3",
     "description": "digit zero + combining enclosing keycap",
+    "aliases": [
+      "zero"
+    ],
     "tags": []
   },
   {
@@ -3490,13 +3485,6 @@
     "tags": []
   },
   {
-    "emojiChar": "1\u20e3",
-    "aliases": ["one"],
-    "emoji": "\u0031\u20E3",
-    "description": "digit one + combining enclosing keycap",
-    "tags": []
-  },
-  {
     "emojiChar": "⛓",
     "aliases": ["chains"],
     "emoji": "\u26D3",
@@ -3574,13 +3562,6 @@
     "tags": ["beach_umbrella"]
   },
   {
-    "emojiChar": "2\u20e3",
-    "aliases": ["two"],
-    "emoji": "\u0032\u20E3",
-    "description": "digit two + combining enclosing keycap",
-    "tags": []
-  },
-  {
     "emojiChar": "⛲",
     "aliases": ["fountain"],
     "emoji": "\u26F2",
@@ -3595,10 +3576,12 @@
     "tags": []
   },
   {
-    "emojiChar": "8️\u20e3",
-    "aliases": ["eight"],
-    "emoji": "\u0038\uFE0F\u20E3",
-    "description": "keycap: 8",
+    "emojiChar": "8⃣",
+    "emoji": "8\u20E3",
+    "description": "digit eight + combining enclosing keycap",
+    "aliases": [
+      "eight"
+    ],
     "tags": []
   },
   {
@@ -3749,10 +3732,12 @@
     "tags": []
   },
   {
-    "emojiChar": "3\u20e3",
-    "aliases": ["three"],
-    "emoji": "\u0033\u20E3",
+    "emojiChar": "3⃣",
+    "emoji": "3\u20E3",
     "description": "digit three + combining enclosing keycap",
+    "aliases": [
+      "three"
+    ],
     "tags": []
   },
   {
@@ -3801,13 +3786,6 @@
     "tags": ["shiny"]
   },
   {
-    "emojiChar": "4\u20e3",
-    "aliases": ["four"],
-    "emoji": "\u0034\u20E3",
-    "description": "digit four + combining enclosing keycap",
-    "tags": []
-  },
-  {
     "emojiChar": "✳",
     "aliases": ["eight_spoked_asterisk"],
     "emoji": "\u2733",
@@ -3819,14 +3797,6 @@
     "aliases": ["eight_pointed_black_star"],
     "emoji": "\u2734",
     "description": "eight pointed black star",
-    "tags": []
-  },
-  {
-    "emojiChar": "🤵\u200d♂️",
-    "aliases": ["man_in_tuxedo"],
-    "emoji": "\uD83E\uDD35\u200D\u2642\uFE0F",
-    "supports_fitzpatrick": true,
-    "description": "man in tuxedo",
     "tags": []
   },
   {
@@ -3880,13 +3850,6 @@
     "aliases": ["negative_squared_cross_mark"],
     "emoji": "\u274E",
     "description": "negative squared cross mark",
-    "tags": []
-  },
-  {
-    "emojiChar": "5\u20e3",
-    "aliases": ["five"],
-    "emoji": "\u0035\u20E3",
-    "description": "digit five + combining enclosing keycap",
     "tags": []
   },
   {
@@ -4047,10 +4010,12 @@
     "tags": []
   },
   {
-    "emojiChar": "6\u20e3",
-    "aliases": ["six"],
-    "emoji": "\u0036\u20E3",
+    "emojiChar": "6⃣",
+    "emoji": "6\u20E3",
     "description": "digit six + combining enclosing keycap",
+    "aliases": [
+      "six"
+    ],
     "tags": []
   },
   {
@@ -4219,13 +4184,6 @@
     ]
   },
   {
-    "emojiChar": "7\u20e3",
-    "aliases": ["seven"],
-    "emoji": "\u0037\u20E3",
-    "description": "digit seven + combining enclosing keycap",
-    "tags": []
-  },
-  {
     "emojiChar": "🇭🇳",
     "aliases": [
       "hn",
@@ -4319,13 +4277,6 @@
     "tags": []
   },
   {
-    "emojiChar": "8\u20e3",
-    "aliases": ["eight"],
-    "emoji": "\u0038\u20E3",
-    "description": "digit eight + combining enclosing keycap",
-    "tags": []
-  },
-  {
     "emojiChar": "➰",
     "aliases": ["curly_loop"],
     "emoji": "\u27B0",
@@ -4361,7 +4312,7 @@
     ]
   },
   {
-    "emojiChar": "9\u20e3",
+    "emojiChar": "9⃣",
     "aliases": ["nine"],
     "emoji": "\u0039\u20E3",
     "description": "digit nine + combining enclosing keycap",
@@ -4379,10 +4330,12 @@
     "tags": []
   },
   {
-    "emojiChar": "4️\u20e3",
-    "aliases": ["four"],
-    "emoji": "\u0034\uFE0F\u20E3",
-    "description": "keycap: 4",
+    "emojiChar": "4⃣",
+    "emoji": "4\u20E3",
+    "description": "digit four + combining enclosing keycap",
+    "aliases": [
+      "four"
+    ],
     "tags": []
   },
   {
@@ -4420,13 +4373,6 @@
     "emoji": "\uD83D\uDC68\u200D\uD83D\uDC67\u200D\uD83D\uDC67",
     "description": "family: man, girl, girl",
     "tags": []
-  },
-  {
-    "emojiChar": "#️\u20e3",
-    "aliases": ["hash"],
-    "emoji": "\u0023\uFE0F\u20E3",
-    "description": "keycap: #",
-    "tags": ["number"]
   },
   {
     "emojiChar": "👨\u200d✈️",
@@ -4750,13 +4696,6 @@
     "supports_fitzpatrick": true,
     "description": "woman getting massage",
     "tags": ["spa"]
-  },
-  {
-    "emojiChar": "0️\u20e3",
-    "aliases": ["zero"],
-    "emoji": "\u0030\uFE0F\u20E3",
-    "description": "keycap: 0",
-    "tags": []
   },
   {
     "emojiChar": "🧑\u200d⚕️",
@@ -5160,24 +5099,6 @@
     "emoji": "\uD83D\uDE46\u200D\u2642\uFE0F",
     "supports_fitzpatrick": true,
     "description": "man gesturing OK",
-    "tags": []
-  },
-  {
-    "emojiChar": "🙆\u200d♀️",
-    "aliases": [
-      "ok_woman",
-      "woman-gesturing-ok"
-    ],
-    "emoji": "\uD83D\uDE46\u200D\u2640\uFE0F",
-    "supports_fitzpatrick": true,
-    "description": "woman gesturing OK",
-    "tags": []
-  },
-  {
-    "emojiChar": "9️\u20e3",
-    "aliases": ["nine"],
-    "emoji": "\u0039\uFE0F\u20E3",
-    "description": "keycap: 9",
     "tags": []
   },
   {
@@ -6120,7 +6041,6 @@
   {
     "emojiChar": "🐞",
     "aliases": [
-      "beetle",
       "lady_beetle"
     ],
     "emoji": "\uD83D\uDC1E",
@@ -6409,10 +6329,12 @@
     "tags": ["attack"]
   },
   {
-    "emojiChar": "5️\u20e3",
-    "aliases": ["five"],
-    "emoji": "\u0035\uFE0F\u20E3",
-    "description": "keycap: 5",
+    "emojiChar": "5⃣",
+    "emoji": "5\u20E3",
+    "description": "digit five + combining enclosing keycap",
+    "aliases": [
+      "five"
+    ],
     "tags": []
   },
   {
@@ -6657,7 +6579,8 @@
     "emojiChar": "👰",
     "aliases": [
       "bride_with_veil",
-      "person_with_veil"
+      "person_with_veil",
+      "woman_with_veil"
     ],
     "emoji": "\uD83D\uDC70",
     "supports_fitzpatrick": true,
@@ -7131,14 +7054,6 @@
     "supports_fitzpatrick": true,
     "description": "haircut",
     "tags": ["beauty"]
-  },
-  {
-    "emojiChar": "💂\u200d♂️",
-    "aliases": ["guardsman"],
-    "emoji": "\uD83D\uDC82\u200D\u2642\uFE0F",
-    "supports_fitzpatrick": true,
-    "description": "man guard",
-    "tags": []
   },
   {
     "emojiChar": "💆",
@@ -8064,8 +7979,7 @@
   {
     "emojiChar": "📧",
     "aliases": [
-      "e-mail",
-      "email"
+      "e-mail"
     ],
     "emoji": "\uD83D\uDCE7",
     "description": "e-mail symbol",
@@ -8174,7 +8088,6 @@
   {
     "emojiChar": "📡",
     "aliases": [
-      "satellite",
       "satellite_antenna"
     ],
     "emoji": "\uD83D\uDCE1",
@@ -9297,7 +9210,6 @@
       "pranava",
       "aumkara",
       "om_symbol",
-      "om",
       "omkara"
     ],
     "emoji": "\uD83D\uDD49",
@@ -9446,7 +9358,6 @@
   {
     "emojiChar": "🆖",
     "aliases": [
-      "ng",
       "squared_ng"
     ],
     "emoji": "\uD83C\uDD96",
@@ -10349,8 +10260,8 @@
   {
     "emojiChar": "🇳🇬",
     "aliases": [
-      "nigeria",
-      "ng"
+      "ng",
+      "nigeria"
     ],
     "emoji": "\uD83C\uDDF3\uD83C\uDDEC",
     "description": "regional indicator symbol letter n + regional indicator symbol letter g",
@@ -12153,13 +12064,6 @@
     "tags": ["hot"]
   },
   {
-    "emojiChar": "🏴\u200d☠️",
-    "aliases": ["pirate_flag"],
-    "emoji": "\uD83C\uDFF4\u200D\u2620\uFE0F",
-    "description": "pirate flag",
-    "tags": []
-  },
-  {
     "emojiChar": "🧭",
     "aliases": ["compass"],
     "emoji": "\uD83E\uDDED",
@@ -12734,7 +12638,8 @@
     "emojiChar": "🙆",
     "aliases": [
       "ok_woman",
-      "ok_person"
+      "ok_person",
+      "woman-gesturing-ok"
     ],
     "emoji": "\uD83D\uDE46",
     "supports_fitzpatrick": true,
@@ -16878,7 +16783,6 @@
   {
     "emojiChar": "🏺",
     "aliases": [
-      "jar",
       "vase",
       "amphora"
     ],
@@ -17185,24 +17089,6 @@
     "emoji": "\uD83D\uDC70\u200D\u2642\uFE0F",
     "supports_fitzpatrick": true,
     "description": "man with veil",
-    "tags": []
-  },
-  {
-    "emojiChar": "👰\u200d♀️",
-    "aliases": [
-      "woman_with_veil",
-      "bride_with_veil"
-    ],
-    "emoji": "\uD83D\uDC70\u200D\u2640\uFE0F",
-    "supports_fitzpatrick": true,
-    "description": "woman with veil",
-    "tags": []
-  },
-  {
-    "emojiChar": "6️\u20e3",
-    "aliases": ["six"],
-    "emoji": "\u0036\uFE0F\u20E3",
-    "description": "keycap: 6",
     "tags": []
   },
   {
